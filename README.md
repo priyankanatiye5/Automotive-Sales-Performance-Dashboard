@@ -4,9 +4,9 @@ Automotive Sales Performance Dashboard in Power BI to analyze business performan
 
 2)Tech Stack
 •  Power BI Desktop 
-•  Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-•  DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-•  Data Modeling – Relationships established among cars sales table and date table to enable cross-filtering and aggregation.
+•  Power Query 
+•  DAX (Data Analysis Expressions) 
+•  Data Modeling 
 
 3)Data Source
 Video uploaded by Data Tutorial 
